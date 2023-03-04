@@ -4,6 +4,7 @@ import Ppost from '../Ppost/Ppost'
 import Life from '../life/Life'
 import './style.css'
 import Music from '../music/Music'
+import Side from '../../sideContent/side/Side'
 
 
 const Home = () => {
@@ -17,7 +18,9 @@ const Home = () => {
                     <Life />
                     <Music/>
                 </section>
-                <section className='sideContent'></section>
+                <section className='sideContent'>
+                  <Side />
+                </section>
             </div>
         </main>
     </>

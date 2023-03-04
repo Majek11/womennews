@@ -14,14 +14,14 @@ main .container {
 }
 
 @media screen and (max-width: 768px) {
-    .main .container {
+    main .container {
         flex-direction: column;
+        display: flex;
     }
     .mainContent {
         width: 100%;
     }
-    
     .sideContent {
-        width: 100%;
+        width:  100%;
     }   
 }

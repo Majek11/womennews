@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from './Logo-removebg-preview.png'
+import Logo from './Logo-removebg-preview 1.png'
 
 const Head = () => {
   return (
@@ -7,11 +7,11 @@ const Head = () => {
       <section className="head">
         <div className="container flexSB paddingTB">
             <div className="logo">
-                <img src={Logo} alt="" width={200} />
+                <img src={Logo} alt=""  />
             </div>
-            <div className="ad">
+            {/* <div className="ad">
                 <img src={Logo} alt="" width={200} />
-            </div>
+            </div> */}
         </div>
       </section>
     </>
