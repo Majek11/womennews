@@ -15,7 +15,7 @@ const Home = () => {
                     <Popular/>
                     <Ppost />
                     <Life />
-                    <Music />
+                    <Music/>
                 </section>
                 <section className='sideContent'></section>
             </div>
