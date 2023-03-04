@@ -5,6 +5,7 @@ import Life from '../life/Life'
 import './style.css'
 import Music from '../music/Music'
 
+
 const Home = () => {
   return (
     <>
