@@ -24,4 +24,8 @@ main .container {
     .sideContent {
         width:  100%;
     }   
+
+    .paddingTB {
+        padding: 20px 0;
+      }
 }

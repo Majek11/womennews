@@ -1,5 +1,5 @@
 import React from "react";
-import Logo from './Logo-removebg-preview 1.png'
+import Logo from './Logo-removebg-preview 1 (1).png'
 
 const Head = () => {
   return (
