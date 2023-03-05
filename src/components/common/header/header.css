@@ -14,7 +14,7 @@ header {
 header li {
     margin-right: 5%;
     transition: 0.5s;
-    margin-left: 5%;
+    margin-left: 2%;
 }
 
 header li a{

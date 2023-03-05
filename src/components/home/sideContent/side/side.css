@@ -6,8 +6,9 @@
 .social .socBox i {
   margin-right: 20px;
 }
-.social .socBox span {
+.social .socBox a {
   font-weight: 500;
+  color: #fff;
 }
 .social .socBox:nth-child(1) {
   background-color: #3b5998;
