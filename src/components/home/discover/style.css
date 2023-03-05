@@ -1,9 +1,9 @@
 /* DISCOVER STYLES */
-
 .discover .content {
     display: grid;
     grid-template-columns: repeat(6, 1fr);
     grid-gap: 30px;
+    display: none;
   }
   
   .discover .box {
@@ -28,5 +28,6 @@
   @media screen and (max-width: 768px) {
     .discover .content {
       grid-template-columns: repeat(3, 1fr);
+      display: none;
     }
   }

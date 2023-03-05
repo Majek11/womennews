@@ -15,7 +15,6 @@ function App() {
         <Route path='/singlepage/:id' element={<SinglePages />} />
       </Routes>
       <Footer />
-      <SinglePages />
     </>
   );
 }

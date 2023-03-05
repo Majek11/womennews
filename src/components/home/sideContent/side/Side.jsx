@@ -10,13 +10,7 @@ import SocialMedia from "../socials/SocialMedia"
 //console.log(allCat)
 
 const Side = () => {
-  const settings = {
-    dots: true,
-    infinite: true,
-    speed: 500,
-    slidesToShow: 1,
-    slidesToScroll: 1,
-  }
+ 
 
   const catgeory = ["world", "travel", "sport", "fun", "health", "fashion", "business", "technology"]
   return (
@@ -37,13 +31,13 @@ const Side = () => {
       </section>
 
       <section className='banner'>
-        <img src='./images/sidebar-banner-new.jpg' alt='' />
+        {/* <img src='./images/sidebar-banner-new.jpg' alt='' /> */}
       </section>
 
       <Tpost />
 
       <section className='catgeorys'>
-        <Heading title='Categorys' />
+        <Heading title='Categories' />
         {/*<div className='items'>{allCat}</div>*/}
         {catgeory.map((val) => {
           return (
@@ -52,19 +46,6 @@ const Side = () => {
             </div>
           )
         })}
-      </section>
-
-      <section className='gallery'>
-        <Heading title='Gallery' />
-        <Slider {...settings}>
-          {gallery.map((val) => {
-            return (
-              <div className='img'>
-                <img src={val.cover} alt='' />
-              </div>
-            )
-          })}
-        </Slider>
       </section>
     </>
   )

@@ -1,5 +1,6 @@
 .singlePopular {
     overflow: hidden;
+    display: none;
   }
   .singlePopular .box {
     width: 250px;
