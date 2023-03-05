@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 
 const Card = ({
   item: { id, cover, category, title, authorName, authorImg, time },
@@ -11,8 +12,9 @@ const Card = ({
         </div>
         <div className="text">
           <span className="category">{category}</span>
-          <h1 className="titleBg">{title}</h1>
-
+          <Link to={`/singlepage/${id}`}>
+            <h1 className="titleBg">{title}</h1>
+          </Link>
           <div className="author flex">
             <span>by {authorName}</span>
             <span>{time}</span>

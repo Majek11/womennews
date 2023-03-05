@@ -28,5 +28,6 @@
     }
     .tpost .text {
       width: 100%;
+      text-align: left;
     }
   }

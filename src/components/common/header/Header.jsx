@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import Head from "./Head";
 import { Link } from "react-router-dom";
 import "./header.css";
-import Homepage from "../../home/Homepage";
+
 
 const Header = () => {
 
@@ -40,7 +40,7 @@ const Header = () => {
           </nav>
         </div>
       </header>
-      {/* <Homepage/> */}
+   
     </>
   );
 };
