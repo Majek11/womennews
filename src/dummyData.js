@@ -3,19 +3,19 @@ export const hero = [
       id: 1,
       cover: "../images/hero/hero1.jpg",
       category: "featured",
-      title: "For first time, women represented in all parliaments of the world",
+      title: "Supporting women leaders and aspirants to unleash their potential",
       authorName: "Salman",
       authorImg: "../images/author.jpg",
       time: "5 Jun - 2022",
       desc: [
         {
-          para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
+          para1: "In Ethiopia, women’s participation in leadership and decision-making positions are very low[1] due to persistent unequal practices and negative gender serotypes, lack of mandatory regulatory frameworks and insufficient implementation of laws and policies. To address these challenges, UN Women Ethiopia strategically target women leaders in public institutions at all levels including aspirants and women with disabilities to unleash their potential to be transformative leaders and advocates of gender equality measures through consecutive capacity development and mentorship interventions to enhance both the leadership skills and experiences.",
         },
         {
-          para2: "We work with clients big and small across a range of sectors and we utilize all forms of media to get your name out there in a way that’s right for you. We believe that analysis of your company and your customers is key in responding effectively to your promotional needs and we will work with you.",
+          para2: "Yayesh Alamrew, the Deputy Head of the West Gojam Zone Job Creation and Training Department, is one of 218 women leaders who benefited from the Transformative Leadership for Gender Equality (TLGE) training and mentorship programme, laid down by UN Women Ethiopia in collaboration with Amhara National Regional State Bureau of Women, Children and Social Affairs (Amhara BoWCSA).",
         },
         {
-          para3: "We have a number of different teams within our agency that specialise in different areas of business so you can be sure that you won’t receive a generic service and although we can’t boast years and years of service we can ensure you that is a good thing in this industry.",
+          para3: "“I was able to come out of the depression I was in due to my divorce. I am now able to express my ideas without fear. I have become strong and hopeful. I am in a place where I am able to coach and teach other women who have gone through the same struggles as me. I have learned so much from my experiences of sadness and fear that I believe I can help others overcome their issues.” Said Yayesh said when asked about the benefits she got from the mentorship programme as a mentee.",
         },
       ],
       details: [
@@ -108,10 +108,10 @@ export const hero = [
       id: 4,
       cover: "../images/hero/hero4.jpg",
       category: "technology",
-      title: "Emma Watson stands up for Turkish women",
-      authorName: "sunil",
-      authorImg: "../images/author.jpg",
-      time: "08 Dec - 2022",
+      title: "UN Women Rwanda stirs hope among young women through SheCanCODE.",
+      authorName: "UN Women",
+      // authorImg: "../public/images/Tech.jpg",
+      time: "23 Feb - 2023",
       desc: [
         {
           para1: "You audience. Least, the recently his repeat the this avarice for the have and was on would before the concise bedding were hall politely name be regretting have of even five of it the his are there again. Word seven designer far lady problem will have work with you to fully understand your business to achieve.",
