@@ -2,7 +2,7 @@ import React from "react"
 import "./footer.css"
 import Logo from '../header/Logo-removebg-preview 1 (1).png'
 
-const Footer = () => {
+const Footer = ({title}) => {
   return (
     <>
       <footer>
@@ -19,7 +19,7 @@ const Footer = () => {
             <h3>FEATURED</h3>
             <div className='item'>
               <img src='../images/hero/hero1.jpg' alt='' />
-              <p>Google To Boost Android Security In Few Days</p>
+              <p>A Woman Making the Difference</p>
             </div>
             <div className='item'>
               <img src='../images/hero/hero2.jpg' alt='' />
