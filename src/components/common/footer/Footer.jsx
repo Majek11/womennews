@@ -11,9 +11,9 @@ const Footer = ({title}) => {
             <img src={Logo} alt='' />
             {/* <p>Busan is an amazing magazine Blogger theme that is easy to customize for your needs</p> */}
             <i className='fa fa-envelope'></i>
-            <span> hello@beautiful.com </span> <br />
-            <i className='fa fa-headphones'></i>
-            <span> +91 60521488</span>
+            <span> hello@womeninnews.com </span> <br />
+            {/* <i className='fa fa-headphones'></i> */}
+            <span> </span>
           </div>
           <div className='box'>
             <h3>FEATURED</h3>
@@ -23,18 +23,18 @@ const Footer = ({title}) => {
             </div>
             <div className='item'>
               <img src='../images/hero/hero2.jpg' alt='' />
-              <p>Cespedes play the winning Baseball Game</p>
+              <p>Rural Women in Nigeria Want 35% Affirmative Compliance</p>
             </div>
           </div>
           <div className='box'>
             <h3>NEWS</h3>
             <div className='item'>
               <img src='../images/hero/hero3.jpg' alt='' />
-              <p>US Promises to give Intel aid to locate the soldiers</p>
+              <p>Polls: Our future is bleak - Ebonyi women</p>
             </div>
             <div className='item'>
               <img src='../images/hero/hero1.jpg' alt='' />
-              <p>Renewable energy dead as industry waits for Policy</p>
+              <p>Borno female voters seek more appointments in government.</p>
             </div>
           </div>
           {/* <div className='box'>
