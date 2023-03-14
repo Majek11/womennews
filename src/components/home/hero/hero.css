@@ -1,10 +1,10 @@
 .hero {
     margin: 30px 0;
-    color: #fff;
+    color: #000;
 }
 
 .hero a {
-    color: #fff;
+    color: #000;
 }
 
 .hero .box {
@@ -59,14 +59,18 @@
 
 
 .hero .text h1 {
-    font-weight: 500;
+    font-weight: bold;
     margin: 5px 0;
     font-size: 13px;
+    background-color: rgb(255, 251, 251);
+    padding: 2px 5px;
 }
 
 .hero .author span {
     font-size: 14px;
     margin-right: 20px;
+    background-color: rgb(255, 255, 255);
+    padding: 2px 5px;
 }
 
 .hero .text {

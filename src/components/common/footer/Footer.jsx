@@ -11,7 +11,7 @@ const Footer = ({title}) => {
             <img src={Logo} alt='' />
             {/* <p>Busan is an amazing magazine Blogger theme that is easy to customize for your needs</p> */}
             <i className='fa fa-envelope'></i>
-            <span> hello@womeninnews.com </span> <br />
+            <span> info@womeninnews.ng</span> <br />
             {/* <i className='fa fa-headphones'></i> */}
             <span> </span>
           </div>
@@ -33,7 +33,7 @@ const Footer = ({title}) => {
               <p>Polls: Our future is bleak - Ebonyi women</p>
             </div>
             <div className='item'>
-              <img src='../images/hero/hero1.jpg' alt='' />
+              <img src='../images/hero/hero4.jpg' alt='' />
               <p>Borno female voters seek more appointments in government.</p>
             </div>
           </div>
