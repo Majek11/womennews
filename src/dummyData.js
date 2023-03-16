@@ -1,7 +1,8 @@
 export const hero = [
   {
     id: 1,
-    cover: "../images/hero/Herr.jpg",
+    coverc: "./images/hero/Cov.jpg",
+    cover: "../images/hero/Cov.jpg",
     cover1: "../images/hero/Hindatu2.jpg",
     cover2: "../images/hero/Ajila3.jpg",
     cover3: "../images/hero/Fehintola4.jpg",

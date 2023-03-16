@@ -62,7 +62,7 @@ const Singlepages = () => {
                   );
                 })}
               </div>
-              <img className="allimg" src={item.cover} alt="" />
+              <img className="allimg" src={item.coverT} alt="" />
               <p style={{ fontWeight: "bolder" }}>
                 Maryam Aliyu running for the State House of Assembly under
                 Action Alliance (AA) in Jigawa
