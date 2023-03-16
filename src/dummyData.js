@@ -21,7 +21,7 @@ export const hero = [
     cover17: "../images/hero/Aisha17.jpg",
     cover18: "../images/hero/Shafaatu18.jpg",
     category: "featured",
-    title: "A Woman Making the Difference",
+    title: "Women to look out for in Saturday Elections",
     authorName: "Sam Egbe",
     authorImg: "./hero1.jpeg",
     time: "11 March - 2023",
