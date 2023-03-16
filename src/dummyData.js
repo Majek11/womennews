@@ -3,6 +3,7 @@ export const hero = [
     id: 1,
     coverc: "./images/hero/Cov.jpg",
     cover: "../images/hero/Cov.jpg",
+    coverT: "../images/hero/Herr.jpg",
     cover1: "../images/hero/Hindatu2.jpg",
     cover2: "../images/hero/Ajila3.jpg",
     cover3: "../images/hero/Fehintola4.jpg",
@@ -23,7 +24,7 @@ export const hero = [
     cover18: "../images/hero/Shafaatu18.jpg",
     category: "featured",
     title: "Women to look out for in Saturday Elections",
-    authorName: "Sam Egbe",
+    authorName: "Our Correspondents",
     authorImg: "./hero1.jpeg",
     time: "11 March - 2023",
     desc: [
