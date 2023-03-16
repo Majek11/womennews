@@ -1,7 +1,25 @@
 export const hero = [
   {
     id: 1,
-    cover: "../images/hero/hero1.jpg",
+    cover: "../images/hero/Herr.jpg",
+    cover1: "../images/hero/Hindatu2.jpg",
+    cover2: "../images/hero/Ajila3.jpg",
+    cover3: "../images/hero/Fehintola4.jpg",
+    cover4: "../images/hero/Yetunde5.jpg",
+    cover5: "../images/hero/Adamilo6.jpg",
+    cover6: "../images/hero/Evelyn7.jpg",
+    cover7: "../images/hero/Funmilayo8.jpg",
+    cover8: "../images/hero/Ayuba9.jpg",
+    cover9: "../images/hero/Cynthia10.jpg",
+    cover10: "../images/hero/Aga11.jpg",
+    cover11: "../images/hero/Veronica12.jpg",
+    cover12: "../images/hero/Favor13.jpg",
+    cover13: "../images/hero/lami13.png",
+    cover14: "../images/hero/Udoka14.jpg",
+    cover15: "../images/hero/Sodom15.jpg",
+    cover16: "../images/hero/Kate16.jpg",
+    cover17: "../images/hero/Aisha17.jpg",
+    cover18: "../images/hero/Shafaatu18.jpg",
     category: "featured",
     title: "A Woman Making the Difference",
     authorName: "Sam Egbe",
@@ -10,15 +28,15 @@ export const hero = [
     desc: [
       {
         para1:
-          "Few women at the time of her birth had parents who gave them an opportunity for Western Education. But the Late Chief and Mrs. Caywood Brown Tom Big Harry of Obuama in Degema Local Government Area of Rivers State saw beyond the ordinary in their daughter, Ipalibo.",
+          "Maryam Aliyu of Action Alliance (AA) wants to represent Dutse Constituency in Jigawa State at the State House of Assembly.“I am contesting to bring positive change and development to my community, state, and Nigeria.”",
       },
       {
         para2:
-          "The young lady was enrolled at Maryhill Convent Primary School, Ido Road, Ibadan from where she began a brilliant career in academics. From there, she proceeded to Queens College Yaba, Lagos where she passed out with Distinction in the School Certificate in 1970. Ipalibo Young Harry then proceeded to the famous University of Ibadan, University College Hospital for her MBBS Degree in Medicine in 1976, then Harvard University’s School of Public Health for the Master of Public Health Degree in June 1981.Thereafter, the now Dr. Banigo headed to London School of Hygiene and Tropical Medicine for a Post-Graduate in Industrial Health (DIH) in 1990, University of London for a Diploma in Dermatology in 1992 and an M.Sc Degree in 2007.",
+          "Hindatu Ibrahim is contesting for the position of Councillor in Dutse Ward of Jigawa State under the People Democratic Party (PDP).“I am contesting to help both female and youths with empowerment programs in such a way that they would be able contribute to the development of the society.”",
       },
       {
         para3:
-          "After all the academic achievements, brilliant Banigo joined the service of the River State Government where she has also remained a pacesetter in all the positions she has held.Some of these positions include Registrar of Birth and Senior Medical Officer; Principal, Rivers State School of Health Technology, Port Harcourt; Director Public Health Services, Rivers State Ministry of Health and Social Welfare; Acting Commissioner for Health and Social Welfare; Director General, Rivers State Ministry of Health and Social Welfare; Permanent Secretary, Rivers State Ministry of Health and Social Welfare.",
+          "",
       },
     ],
     details: [
@@ -27,19 +45,66 @@ export const hero = [
       },
       {
         para1:
-          "The amazon also served as Head of Service of Rivers State; Secretary to Rivers State Government; Member, Rivers State Food and Nutrition Committee; Project Director, United Nation’s Fund for Population Activities (UNFPA).She served equally as a Chairman Rivers State Relief Committee Member; Rivers State Hospital Management Board; Project Director, UNICEF. Dr. Banigo’s exploits went beyond Rivers State Civil Service as she also served as Honorary Consultant Dermatologist, University of Port Harcourt Teaching Hospital; Public Health Adviser, Shell Petroleum Development Company (East); Executive Director, National Primary Health Care Development Agency and Secretary to the Board of the Agency. She was also a member of the Governing Council in the University of Calabar; Governing Board, University of Nigeria Teaching Hospital; Member Reference Board.",
+          "Hon Ajila Gloria Mawo of New Nigeria Peoples Party (NNPP) is contesting for the membership of Kogi State House of Assembly. She seeks to represent Ogori Magongo Constituency.“I have the requisite leadership qualities to promote women, unite and develop my constituency.  Ogori Magongo Constituency will feel the impact of my representation in education, healthcare delivery, agriculture and more.”",
+      },
+      {
+        para2:"Hon. Fehintola Janet Odetunde is running for the Kwara State House of Assembly under the Allied Peoples’ Movement (APM).“I will bring development to my constituency, empower and support women and youths.”"
       },
       {
         quote:
-          "A woman of many parts, Dr. Banigo has received several awards for academic excellence and public service records. Some of these include —Best All Round Student of the year 1969 – 1970, Queens College Yaba Lagos; BBC Award for student poetry 1968; and other awards including the Distinguished service star of Rivers State (DSSRS).She has attended several  courses at home and abroad. These include World Health Assembly in 2001, 2002, World Health Regional meeting in Congo, Brazzavile, Commonwealth Ministers of Health in New Zealand, 2001, Sandoz Dermatology Conference, London 1995, National Council of Health Meetings as well as International submit on Health in 1992.This epitome of beauty, intellect, and humane candour has combined all these roles with maintaining a simple, homely, quiet and as a social crusader, a community worker and a devoted Christian to the admiration of many.",
-      },
-      {
-        para2:
-          "Among the first, she has recorded in her career are— First Female Indigenous Principal of Rivers State School of Health Technology, First Female Director of Public Health Services, First Female Head of Service, First Female Secretary to Government, First Rivers State Indigene to be appointed Executive Secretary/Director of the National Primary Health Care Development Agency, First Female Chairman of Boy’s Brigade of Nigeria and above all, the First Female Deputy Governor of River State from 2015 – 2023.",
+          "Hon. Yetunde Ibrahim, the Labour Party (LP) Candidate for Kwara State House of Assembly said: “I will be my people’s voice at the State House of Assembly.”",
       },
       {
         para3:
-          "Having shown loyalty, commitment to service since her assumption for her first tenure on May 29, 2015 and after her re-election in May 29, 2019, the amiable Dr. Banigo also got a higher calling to represent the people of Rivers State at the 10th Senate of the National Assembly come May 29, 2023. She won the 2023 National Assembly election on the platform of the People Democratic Party (PDP). Her Excellency, Dr. (Mrs.) Ipali bo Banigo represent the total woman who should serve as an inspiration for our younger generation of women. Her strides in academics, public service, family, governance, politics and above all community and Christian service should be emulated by the younger generation of women aspiring to make it big.",
+          "Adamilo Yakubu, the ADP, House of Assembly contestant for Chikun constituency in Kaduna State said she is bringing on board —Service to humanity and development to Chikun constituency. 'I want women to know that it is possible to be in any profession they admire and that it is possible for a woman to be politics and also succeed in it.'",
+      },
+      {
+        para4:
+          "Hon. Evelyn Asase, the African Democratic Congress (ADC) House of Assembly Candidate for Makurdi South Constituency in Benue state, insists women should be given more opportunities. 'I am a woman of vision. I lead by example. I want to make a difference. Women should be given more opportunities.'",
+      },
+      {
+        para5:
+          "Hon. Osundeyi says she will employed youths for self-reliance, to better the state economy and national development. She says: “If elected, I hope to achieve the best of the great impact I wish to make for my people.”",
+      },
+      {
+        para6:
+          "Hon. Cynthia Nkasi, is a member representing Yala 2 Constituency in the Cross River State House of Assembly said she is “bringing quality representation, human inclined laws.” She is asking to be re-elected 'because I have made a difference in my pattern of representation in my first term in office. I need another opportunity to complete the good work I have been doing.'",
+      },
+      {
+        para7:
+          "Aga Catherine Keghnenge is the People's Redemption Party (PRP) House of Assembly Candidate for Makurdi South Constituency in Benue State. She has promised to engage women in financial education if elected. 'Women have the voting strength but we’re under represented. We need to come out and speak for ourselves.'",
+      },
+      {
+        para8:
+          "“It’s time to address things we don't like in government”, said Hon. Mrs. Uzoamaka Veronica Ikele. She seeks to represent Onicha East Constituency in Ebonyi State House of Assembly on the platform of the All Progressives Congress (APC). 'I served my people well as the Vice Council Chairman and was recommended for the State Assembly by my people. I will do even better at the House of Assembly.'",
+      },
+      {
+        para9:
+          "Lami Babageidam is the Zenith Labor Party (ZLP) State House of Assembly candidate for Ganjuwa/Darazo constituency, in Bauch State. Lami said she is vying to empower women and youth so that they can make an impact in the society.",
+      },
+      {
+        para11:
+          "Mrs Udoka Sunday Etimbuk is aspiring to represent the Ukanafun State Constituency in the Akwa State House of Assembly in the March 18, 2023 Governorship and State House of Assembly. She is seeking the position on the Platform of the National Rescue Movement (NRM). Etimbuk has assured that she will deliver on women empowerment, scholarship program for the people, boost tourism and above all help improve the security of the area through synergy with other colleagues and security agencies.",
+      },
+      {
+        para10:
+          "Hon. Favour Tomomewo, is the African Democratic Congress (ADC) State Assembly, Candidate for the llaje 11 Constituency. She has promised to propel a gender equality policy for the benefit of women and girls.",
+      },
+      {
+        para12:
+          "Hon. Sodom Tayidi Daniel, a former member of Adamawa State House of Assembly wants to make a comeback. The State House of Assembly contestant is running under the All Progressives Congress (APC). She seeks to represent Numan Constituency.",
+      },
+      {
+        para13:
+          "Hon. Kate Raymond Mamuno is currently representing Demsa constituency of Adamawa State at the House of Assembly. She is seeking re-election under the Peoples Democratic Party (PDP).",
+      },
+      {
+        para14:
+          "Aisha Abduljabar is vying for membership of Kaduna State House of Assembly under Youth Progressive Party (YPP). “I am contesting because my constituency has been left behind. We the youth have been left behind. I want to change the narrative and create wealth which will enable the less privileged to be a part of decision making.”",
+      },
+      {
+        para15:
+          "Hon. Comrade Shafaatu Salihu Labbo of Kaura Namoda Zamfara State is vying for a seat at the state House of Assembly. She seeks to provide the best representation for women and children.",
       },
     ],
   },
