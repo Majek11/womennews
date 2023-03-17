@@ -381,6 +381,7 @@ const Singlepages = () => {
               <p style={{ fontWeight: "bolder" }}></p>
               <br />
               <hr />
+
               <div className="desctop">
                 {item.details.map((data) => {
                   return (
@@ -394,6 +395,183 @@ const Singlepages = () => {
               <img className="allimg" src={item.cover18} alt="" />
               <p style={{ fontWeight: "bolder" }}>
                 Hon. Comrade Shafaatu Salihu Labbo
+              </p>
+              <br />
+              <hr />
+
+              <div className="desctop">
+                {item.details.map((data) => {
+                  return (
+                    <>
+                      <p>{data.para16}</p>
+                      {/* <p>{data.para3}</p> */}
+                    </>
+                  );
+                })}
+              </div>
+              <img className="allimg" src={item.cover19} alt="" />
+              <p style={{ fontWeight: "bolder" }}>
+                Sen. Aisha Dahiru Ahmed (Binani) (APC) Adamawa State
+                Gubernatorial Candidate
+              </p>
+              <br />
+              <hr />
+
+              <div className="desctop">
+                {item.details.map((data) => {
+                  return (
+                    <>
+                      <p>{data.para17}</p>
+                      {/* <p>{data.para3}</p> */}
+                    </>
+                  );
+                })}
+              </div>
+              <img className="allimg" src={item.cover20} alt="" />
+              <p style={{ fontWeight: "bolder" }}>
+                Aduragbemi Animasawun-Euba, Oyo State YPP Gubernatorial
+                flagbearer
+              </p>
+              <br />
+              <hr />
+
+              <div className="desctop">
+                {item.details.map((data) => {
+                  return (
+                    <>
+                      <p>{data.para18}</p>
+                      {/* <p>{data.para3}</p> */}
+                    </>
+                  );
+                })}
+              </div>
+              <img className="allimg" src={item.cover21} alt="" />
+              <p style={{ fontWeight: "bolder" }}></p>
+              <br />
+              <hr />
+
+              <div className="desctop">
+                {item.details.map((data) => {
+                  return (
+                    <>
+                      <p>{data.para19}</p>
+                      {/* <p>{data.para3}</p> */}
+                    </>
+                  );
+                })}
+              </div>
+              <img className="allimg" src={item.cover22} alt="" />
+              <p style={{ fontWeight: "bolder" }}>
+                Hon. Rita Agbo Ayim (PDP), Ogoja Constituency, Cross River State
+                House of Assembly
+              </p>
+              <br />
+              <hr />
+
+              <div className="desctop">
+                {item.details.map((data) => {
+                  return (
+                    <>
+                      <p>{data.para20}</p>
+                      {/* <p>{data.para3}</p> */}
+                    </>
+                  );
+                })}
+              </div>
+              <img className="allimg" src={item.cover23} alt="" />
+              <p style={{ fontWeight: "bolder" }}>
+                Buhari Shakirat, Malete Ipeye Oloru Constituency, Kwara State AA
+                flag bearer for the State House of Assembly Election
+              </p>
+              <br />
+              <hr />
+
+              <div className="desctop">
+                {item.details.map((data) => {
+                  return (
+                    <>
+                      <p>{data.para21}</p>
+                      {/* <p>{data.para3}</p> */}
+                    </>
+                  );
+                })}
+              </div>
+              <img className="allimg" src={item.cover24} alt="" />
+              <p style={{ fontWeight: "bolder" }}>
+                Mrs. Comfort Chinyere Nwofoke, APM Candidate for Ebonyi North
+                Constituency
+              </p>
+              <br />
+              <hr />
+
+              <div className="desctop">
+                {item.details.map((data) => {
+                  return (
+                    <>
+                      <p>{data.para22}</p>
+                      {/* <p>{data.para3}</p> */}
+                    </>
+                  );
+                })}
+              </div>
+              <img className="allimg" src={item.cover25} alt="" />
+              <p style={{ fontWeight: "bolder" }}>
+                Oluchi Nnachi Igwe, SDP flag bearer for Afikpo South East
+                Constituency
+              </p>
+              <br />
+              <hr />
+
+              <div className="desctop">
+                {item.details.map((data) => {
+                  return (
+                    <>
+                      <p>{data.para23}</p>
+                      {/* <p>{data.para3}</p> */}
+                    </>
+                  );
+                })}
+              </div>
+              <img className="allimg" src={item.cover26} alt="" />
+              <p style={{ fontWeight: "bolder" }}>
+                Honourable Yetunde Fumilayo Ibrahim, LP Kwara State House of
+                Assembly Candidate
+              </p>
+              <br />
+              <hr />
+
+              <div className="desctop">
+                {item.details.map((data) => {
+                  return (
+                    <>
+                      <p>{data.para24}</p>
+                      {/* <p>{data.para3}</p> */}
+                    </>
+                  );
+                })}
+              </div>
+              <img className="allimg" src={item.cover27} alt="" />
+              <p style={{ fontWeight: "bolder" }}>
+                Abdulraheem Medinat Motunrayo, APC Candidate for Lanueji
+                Constituency, kwara State House of Assembly
+              </p>
+              <br />
+              <hr />
+
+              <div className="desctop">
+                {item.details.map((data) => {
+                  return (
+                    <>
+                      <p>{data.para25}</p>
+                      {/* <p>{data.para3}</p> */}
+                    </>
+                  );
+                })}
+              </div>
+              <img className="allimg" src={item.cover28} alt="" />
+              <p style={{ fontWeight: "bolder" }}>
+                Mrs. Bukunmi Akeju Oseyemi, APC Akoko South West Constituency II
+                House of Assembly Candidate
               </p>
               <br />
               <hr />

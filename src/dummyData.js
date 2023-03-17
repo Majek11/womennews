@@ -22,6 +22,16 @@ export const hero = [
     cover16: "../images/hero/Kate16.jpg",
     cover17: "../images/hero/Aisha17.jpg",
     cover18: "../images/hero/Shafaatu18.jpg",
+    cover19: "../images/hero/AishaNew.jpg",
+    cover20: "../images/hero/AduragbeniNew.jpg",
+    cover21: "../images/hero/AtinukeNew.jpg",
+    cover22: "../images/hero/RitaNew.jpg",
+    cover23: "../images/hero/BuhariNew.jpg",
+    cover24: "../images/hero/ComfortNew.jpg",
+    cover25: "../images/hero/OluchNew.jpg",
+    cover26: "../images/hero/YetundeNew.jpg",
+    cover27: "../images/hero/AbdulraheemNew.jpg",
+    cover28: "../images/hero/BukunmiNew.jpg",
     category: "featured",
     title: "Women to look out for in Saturday Elections",
     authorName: "Our Correspondents",
@@ -106,6 +116,50 @@ export const hero = [
       },
       {
         para15:
+          "Hon. Comrade Shafaatu Salihu Labbo of Kaura Namoda Zamfara State is vying for a seat at the state House of Assembly. She seeks to provide the best representation for women and children.",
+      },
+      {
+        para16:
+          "Days ago when President Muhammadu Buhari went on campaign rally with Senator Aisha Dahiru Ahmed popularly known as Binani, he proudly announced he was there ensure Binani was elected as the first female elected governor in the country. Greatly loved by her people, Binani, the All Progressives Congress (APC) governorship candidate for Adamawa State is the currently the Senator representing Adamawa Central at the National Assembly.",
+      },
+      {
+        para17:
+          "Determined and ready to serve, Aduragbemi Animasawun-Euba is the governorship candidate for Oyo state under the Young Progressive Party, (YPP). A Philanthropist, she is the co-founder and Director of a non-governmental organisation, Deborah Animasawun Foundation and runs her fashion business, Signatures By Adura. “My charge to the youths, particularly in Oyo state and all citizens of Oyo state to take power back from those who have kept us underdeveloped and let’s build our commonwealth together.”",
+      },
+      {
+        para18:
+          "Atinuke Morenike Witherspoon is running for the Ondo State House of Assembly, Owo Constituency 2, under the All Progressives Congress (APC). The business woman cum politician said she is running “in order to help the female folk who have been sidelined from politics despite being the highest number of voters and coming out emass to vote. I am here to advocate for women in politics.” ",
+      },
+      {
+        para19:
+          "Hon. Rita Agbo Ayim is eyeing the seat of Ogoja State Constituency in the Cross River State House of Assembly on the platform of the Peoples Democratic Party (PDP). A seasoned banker, administrator, one time Chairman of Ogoja local government, Commissioner for Women Affairs in Cross River State, Ayim was also Publicity Secretary of PDP in the State.She told the Women Newspaper that she was in the race to change the narrative in representation. She also promised to provide opportunities for women, youths and the elderly. “It's time women rise up to the Challenge of leadership.”",
+      },
+      {
+        para20:
+          "Buhari Shakirat, the Action Alliance (AA) flag bearer for the State House of Assembly election wants to represent Malete Ipeye Oloru Constituency. “I want to make an impact in addressing the growing concerns about the gender imbalance in elective and appointive positions in the state while working with colleagues in the House to pass legislation that will improve the welfare of the marginalized groups, promote inclusive governance, and education at all levels in Kwara.”",
+      },
+      {
+        para21:
+          "Mrs. Comfort Chinyere Nwofoke is the candidate of the Alliance People's Movement (APM) for Ebonyi North Constituency. The State House of Assembly contestant said she wants to bring Ebonyi North people close to the Government and give women a sense of belonging. 'I will support the poor, especially widows, and bring government nearer to my people so that they will be beneficiaries of whatever comes from the government.'",
+      },
+      {
+        para22:
+          "Oluchi Nnachi Igwe is contesting to represent Afikpo South East Constituency at the Ebonyi State House of Assembly under Social Democratic Party (SDP). She said the rate of unemployment in her area is alarming therefore she would like to empower them if elected.“I am contesting to give effective representation to my people. My people have suffered. In the area of democracy dividend we are lagging behind. I will ensure that bills that are beneficial to my people are passed.”",
+      },
+      {
+        para23:
+          "Honourable Yetunde Fumilayo Ibrahim is a Labour Party House of Assembly candidate in Kwara state.",
+      },
+      {
+        para24:
+          "Abdulraheem Medinat Motunrayo, a candidate for the Kwara State House of Assembly seeks to represent Lanueji constituency in Moro local government Area of the state. She is running under the All Progressive Party (APC)",
+      },
+      {
+        para25:
+          "Mrs. Bukunmi Akeju Oseyemi is the Akoko South West Constituency II House of Assembly Candidate. She is running under the All  Progressives Congress Party (APC).”I want to bring the dividends of democracy to my people. I want to empower the vulnerable, represent their voices, and motivate them.”",
+      },
+      {
+        para26:
           "Hon. Comrade Shafaatu Salihu Labbo of Kaura Namoda Zamfara State is vying for a seat at the state House of Assembly. She seeks to provide the best representation for women and children.",
       },
     ],
