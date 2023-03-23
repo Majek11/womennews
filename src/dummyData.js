@@ -1,54 +1,27 @@
 export const hero = [
   {
     id: 1,
-    coverc: "./images/hero/Cov.jpg",
-    cover: "../images/hero/Cov.jpg",
-    coverT: "../images/hero/Herr.jpg",
-    cover1: "../images/hero/Hindatu2.jpg",
-    cover2: "../images/hero/Ajila3.jpg",
-    cover3: "../images/hero/Fehintola4.jpg",
-    cover4: "../images/hero/Yetunde5.jpg",
-    cover5: "../images/hero/Adamilo6.jpg",
-    cover6: "../images/hero/Evelyn7.jpg",
-    cover7: "../images/hero/Funmilayo8.jpg",
-    cover8: "../images/hero/Ayuba9.jpg",
-    cover9: "../images/hero/Cynthia10.jpg",
-    cover10: "../images/hero/Aga11.jpg",
-    cover11: "../images/hero/Veronica12.jpg",
-    cover12: "../images/hero/Favor13.jpg",
-    cover13: "../images/hero/lami13.png",
-    cover14: "../images/hero/Udoka14.jpg",
-    cover15: "../images/hero/Sodom15.jpg",
-    cover16: "../images/hero/Kate16.jpg",
-    cover17: "../images/hero/Aisha17.jpg",
-    cover18: "../images/hero/Shafaatu18.jpg",
-    cover19: "../images/hero/AishaNew.jpg",
-    cover20: "../images/hero/AduragbeniNew.jpg",
-    cover21: "../images/hero/AtinukeNew.jpg",
-    cover22: "../images/hero/RitaNew.jpg",
-    cover23: "../images/hero/BuhariNew.jpg",
-    cover24: "../images/hero/ComfortNew.jpg",
-    cover25: "../images/hero/OluchNew.jpg",
-    cover26: "../images/hero/YetundeNew.jpg",
-    cover27: "../images/hero/AbdulraheemNew.jpg",
-    cover28: "../images/hero/BukunmiNew.jpg",
+    cover: "../images/hero/Hhero1.jpg",
     category: "featured",
-    title: "Women to look out for in Saturday Elections",
-    authorName: "Our Correspondents",
-    authorImg: "./hero1.jpeg",
+    title: "Rukayat Motunrayo Shittu…Blazing the trail",
+    authorName: "Rosemary Opara",
+    authorImg: "./Hhero1.jpg",
     time: "11 March - 2023",
     desc: [
       {
         para1:
-          "Maryam Aliyu of Action Alliance (AA) wants to represent Dutse Constituency in Jigawa State at the State House of Assembly.“I am contesting to bring positive change and development to my community, state, and Nigeria.”",
+          "Young, vibrant and passionate, Rukayat Motunrayo Shittu has emerged the House of Assembly representative of Owode/Onire Constituency in Asa LGA of Kwara State.",
       },
       {
-        para2:
-          "Hindatu Ibrahim is contesting for the position of Councillor in Dutse Ward of Jigawa State under the People Democratic Party (PDP).“I am contesting to help both female and youths with empowerment programs in such a way that they would be able contribute to the development of the society.”",
+        para2: "Shittu hails from Manyan village, Onire district in Asa local government area of Kwara state. Born in Ilorin in 1996, RMS as she is popularly known attended Baptist Primary School LGEA in Ilorin. She obtained her Senior Secondary School Certificate Education in 2011 from Government Girls Day Secondary School Oko Erin. Shittu then proceeded to Kwara State College of Arabic and Islamic Legal Studies, an affiliate of Bayero University Kano, where she obtained a diploma in Mass Communication and Islamic Studies in 2015. ",
       },
       {
         para3:
-          "",
+          "In 2017, she got admission into the National Open University of Nigeria (NOUN) and graduated in 2022 with Second Class (Upper Division) from the Mass Communication department. Shittu was former head of the news department, at Just Event Online in Ilorin, a popular online television. Her interest in politics started from actively participating in students’ politics and becoming the first female Senate president for the Congress of the National Open University of Nigeria Students (CoNS). Taking on the legislative seat on the platform of the ruling APC, Shittu said, though women are underrepresented in politics due to several factors, the narrative will change gradually with the free nomination forms given to female aspirants.",
+      },
+      {
+        para3:
+          "Among her mandate having emerged the representative for her people in Owode/Onire Constituency Kwara State House of Assembly, is to sponsor bills that will center on some Sustainable Development Goals (SDGs); 4,5,9, and 10. With Goal 4 focused on Quality Education; Goal 5, Gender Equality; Goal 9 focused on Industry, Innovation, and Infrastructure and Goal 10 focused on Reduced Inequalities, Shittu is poised to change the narrative in the political terrain being a young woman.",
       },
     ],
     details: [
@@ -69,98 +42,6 @@ export const hero = [
       {
         para3:
           "Adamilo Yakubu, the ADP, House of Assembly contestant for Chikun constituency in Kaduna State said she is bringing on board —Service to humanity and development to Chikun constituency. 'I want women to know that it is possible to be in any profession they admire and that it is possible for a woman to be politics and also succeed in it.'",
-      },
-      {
-        para4:
-          "Hon. Evelyn Asase, the African Democratic Congress (ADC) House of Assembly Candidate for Makurdi South Constituency in Benue state, insists women should be given more opportunities. 'I am a woman of vision. I lead by example. I want to make a difference. Women should be given more opportunities.'",
-      },
-      {
-        para5:
-          "Hon. Osundeyi says she will employed youths for self-reliance, to better the state economy and national development. She says: “If elected, I hope to achieve the best of the great impact I wish to make for my people.”",
-      },
-      {
-        para6:
-          "Hon. Cynthia Nkasi, is a member representing Yala 2 Constituency in the Cross River State House of Assembly said she is “bringing quality representation, human inclined laws.” She is asking to be re-elected 'because I have made a difference in my pattern of representation in my first term in office. I need another opportunity to complete the good work I have been doing.'",
-      },
-      {
-        para7:
-          "Aga Catherine Keghnenge is the People's Redemption Party (PRP) House of Assembly Candidate for Makurdi South Constituency in Benue State. She has promised to engage women in financial education if elected. 'Women have the voting strength but we’re under represented. We need to come out and speak for ourselves.'",
-      },
-      {
-        para8:
-          "“It’s time to address things we don't like in government”, said Hon. Mrs. Uzoamaka Veronica Ikele. She seeks to represent Onicha East Constituency in Ebonyi State House of Assembly on the platform of the All Progressives Congress (APC). 'I served my people well as the Vice Council Chairman and was recommended for the State Assembly by my people. I will do even better at the House of Assembly.'",
-      },
-      {
-        para9:
-          "Lami Babageidam is the Zenith Labor Party (ZLP) State House of Assembly candidate for Ganjuwa/Darazo constituency, in Bauch State. Lami said she is vying to empower women and youth so that they can make an impact in the society.",
-      },
-      {
-        para11:
-          "Mrs Udoka Sunday Etimbuk is aspiring to represent the Ukanafun State Constituency in the Akwa State House of Assembly in the March 18, 2023 Governorship and State House of Assembly. She is seeking the position on the Platform of the National Rescue Movement (NRM). Etimbuk has assured that she will deliver on women empowerment, scholarship program for the people, boost tourism and above all help improve the security of the area through synergy with other colleagues and security agencies.",
-      },
-      {
-        para10:
-          "Hon. Favour Tomomewo, is the African Democratic Congress (ADC) State Assembly, Candidate for the llaje 11 Constituency. She has promised to propel a gender equality policy for the benefit of women and girls.",
-      },
-      {
-        para12:
-          "Hon. Sodom Tayidi Daniel, a former member of Adamawa State House of Assembly wants to make a comeback. The State House of Assembly contestant is running under the All Progressives Congress (APC). She seeks to represent Numan Constituency.",
-      },
-      {
-        para13:
-          "Hon. Kate Raymond Mamuno is currently representing Demsa constituency of Adamawa State at the House of Assembly. She is seeking re-election under the Peoples Democratic Party (PDP).",
-      },
-      {
-        para14:
-          "Aisha Abduljabar is vying for membership of Kaduna State House of Assembly under Youth Progressive Party (YPP). “I am contesting because my constituency has been left behind. We the youth have been left behind. I want to change the narrative and create wealth which will enable the less privileged to be a part of decision making.”",
-      },
-      {
-        para15:
-          "Hon. Comrade Shafaatu Salihu Labbo of Kaura Namoda Zamfara State is vying for a seat at the state House of Assembly. She seeks to provide the best representation for women and children.",
-      },
-      {
-        para16:
-          "Days ago when President Muhammadu Buhari went on campaign rally with Senator Aisha Dahiru Ahmed popularly known as Binani, he proudly announced he was there ensure Binani was elected as the first female elected governor in the country. Greatly loved by her people, Binani, the All Progressives Congress (APC) governorship candidate for Adamawa State is the currently the Senator representing Adamawa Central at the National Assembly.",
-      },
-      {
-        para17:
-          "Determined and ready to serve, Aduragbemi Animasawun-Euba is the governorship candidate for Oyo state under the Young Progressive Party, (YPP). A Philanthropist, she is the co-founder and Director of a non-governmental organisation, Deborah Animasawun Foundation and runs her fashion business, Signatures By Adura. “My charge to the youths, particularly in Oyo state and all citizens of Oyo state to take power back from those who have kept us underdeveloped and let’s build our commonwealth together.”",
-      },
-      {
-        para18:
-          "Atinuke Morenike Witherspoon is running for the Ondo State House of Assembly, Owo Constituency 2, under the All Progressives Congress (APC). The business woman cum politician said she is running “in order to help the female folk who have been sidelined from politics despite being the highest number of voters and coming out emass to vote. I am here to advocate for women in politics.” ",
-      },
-      {
-        para19:
-          "Hon. Rita Agbo Ayim is eyeing the seat of Ogoja State Constituency in the Cross River State House of Assembly on the platform of the Peoples Democratic Party (PDP). A seasoned banker, administrator, one time Chairman of Ogoja local government, Commissioner for Women Affairs in Cross River State, Ayim was also Publicity Secretary of PDP in the State.She told the Women Newspaper that she was in the race to change the narrative in representation. She also promised to provide opportunities for women, youths and the elderly. “It's time women rise up to the Challenge of leadership.”",
-      },
-      {
-        para20:
-          "Buhari Shakirat, the Action Alliance (AA) flag bearer for the State House of Assembly election wants to represent Malete Ipeye Oloru Constituency. “I want to make an impact in addressing the growing concerns about the gender imbalance in elective and appointive positions in the state while working with colleagues in the House to pass legislation that will improve the welfare of the marginalized groups, promote inclusive governance, and education at all levels in Kwara.”",
-      },
-      {
-        para21:
-          "Mrs. Comfort Chinyere Nwofoke is the candidate of the Alliance People's Movement (APM) for Ebonyi North Constituency. The State House of Assembly contestant said she wants to bring Ebonyi North people close to the Government and give women a sense of belonging. 'I will support the poor, especially widows, and bring government nearer to my people so that they will be beneficiaries of whatever comes from the government.'",
-      },
-      {
-        para22:
-          "Oluchi Nnachi Igwe is contesting to represent Afikpo South East Constituency at the Ebonyi State House of Assembly under Social Democratic Party (SDP). She said the rate of unemployment in her area is alarming therefore she would like to empower them if elected.“I am contesting to give effective representation to my people. My people have suffered. In the area of democracy dividend we are lagging behind. I will ensure that bills that are beneficial to my people are passed.”",
-      },
-      {
-        para23:
-          "Honourable Yetunde Fumilayo Ibrahim is a Labour Party House of Assembly candidate in Kwara state.",
-      },
-      {
-        para24:
-          "Abdulraheem Medinat Motunrayo, a candidate for the Kwara State House of Assembly seeks to represent Lanueji constituency in Moro local government Area of the state. She is running under the All Progressive Party (APC)",
-      },
-      {
-        para25:
-          "Mrs. Bukunmi Akeju Oseyemi is the Akoko South West Constituency II House of Assembly Candidate. She is running under the All  Progressives Congress Party (APC).”I want to bring the dividends of democracy to my people. I want to empower the vulnerable, represent their voices, and motivate them.”",
-      },
-      {
-        para26:
-          "Hon. Comrade Shafaatu Salihu Labbo of Kaura Namoda Zamfara State is vying for a seat at the state House of Assembly. She seeks to provide the best representation for women and children.",
       },
     ],
   },
