@@ -4,24 +4,24 @@ export const hero = [
     cover: "../images/hero/Hero.jpg",
     category: "featured",
     title: "Meet Falmata, Borno's First Female Phone Repairer",
-    authorName: "Rosemary Opara",
+    authorName: "Ladi Dapson",
     authorImg: "./Hhero1.jpg",
-    time: "11 March - 2023",
+    time: "26 March - 2023",
     desc: [
       {
         para1:
-          "Young, vibrant and passionate, Rukayat Motunrayo Shittu has emerged the House of Assembly representative of Owode/Onire Constituency in Asa LGA of Kwara State.",
+          "When Falmata resolved to dare the odds to earn a living in the harshening economic climate of the Borno terrorised society, her thoughts transcended all sociocultural barriers segregating males and females in terms of skills, trades and occupations.",
       },
       {
-        para2: "Shittu hails from Manyan village, Onire district in Asa local government area of Kwara state. Born in Ilorin in 1996, RMS as she is popularly known attended Baptist Primary School LGEA in Ilorin. She obtained her Senior Secondary School Certificate Education in 2011 from Government Girls Day Secondary School Oko Erin. Shittu then proceeded to Kwara State College of Arabic and Islamic Legal Studies, an affiliate of Bayero University Kano, where she obtained a diploma in Mass Communication and Islamic Studies in 2015. ",
-      },
-      {
-        para3:
-          "In 2017, she got admission into the National Open University of Nigeria (NOUN) and graduated in 2022 with Second Class (Upper Division) from the Mass Communication department. Shittu was former head of the news department, at Just Event Online in Ilorin, a popular online television. Her interest in politics started from actively participating in students’ politics and becoming the first female Senate president for the Congress of the National Open University of Nigeria Students (CoNS). Taking on the legislative seat on the platform of the ruling APC, Shittu said, though women are underrepresented in politics due to several factors, the narrative will change gradually with the free nomination forms given to female aspirants.",
+        para2: "She had resolved that should her interest and aptitude lead her to a skill or trade socio-culturally regarded as the territory of men, she would show the society that women could also venture into such trades and skills, and practice them very well.",
       },
       {
         para3:
-          "Among her mandate having emerged the representative for her people in Owode/Onire Constituency Kwara State House of Assembly, is to sponsor bills that will center on some Sustainable Development Goals (SDGs); 4,5,9, and 10. With Goal 4 focused on Quality Education; Goal 5, Gender Equality; Goal 9 focused on Industry, Innovation, and Infrastructure and Goal 10 focused on Reduced Inequalities, Shittu is poised to change the narrative in the political terrain being a young woman.",
+          "That was how Falmata found herself in cellphone repairs business, a territory hitherto unheard of for any woman to dare to traverse in the Borno society.",
+      },
+      {
+        para3:
+          "Falmata expressed her striking resolve at the celebration of the International Women's Day 2023, with theme 'DigitALL: Innovation and Technology for Gender Equality. This first female cellphone technician was traced to her home community, Mafa, in Mafa LGA of Borno State.'She was trained alongside other youths on technological and innovative skills to build up her skill and earn a decent living.“Even when people tried to discourage me, I resisted, because I have chosen to learn how to fix phones.'They said it's a man's job, but then I love it and I want to have these skills. Besides, only few men are doing this and the demand is so high here in Mafa LGA, of Borno State,Falmata said. She thanked Plan international for training her and supporting her with some tools like meter, engine, screws and other tools for repairing phones.'I wasn’t working, I had no business, but because of Plan International’s intervention in my community, I have a business of my own now.'I can now fix phone screens, change mouth piece and charging point. I can also do other repairs as well.Those who were discouraging me are now bringing their phones for repairs,” said Falmata."
       },
     ],
     details: [
