@@ -49,10 +49,10 @@ export const hero = [
     id: 2,
     cover: "../images/hero/hero2.jpg",
     category: "featured",
-    title: "Rural Women in Nigeria Want 35% Affirmative Compliance",
-    authorName: "Isiyaku Ahmed ",
+    title: "Felicia Arikpo: A passion for children with learning disabilities",
+    authorName: "Sam Egbe",
     // authorImg: "../images/author.jpg",
-    time: "13 Mar - 2023",
+    time: "26 Mar - 2023",
     desc: [
       {
         para1:
