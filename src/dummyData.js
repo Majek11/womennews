@@ -92,23 +92,23 @@ export const hero = [
   {
     id: 3,
     cover: "../images/hero/hero3.jpg",
-    category: "Politics",
+    category: "Health",
     title:
-      "Polls: Our future is bleak - Ebonyi women",
-    authorName: "Ruth Oginyi ",
+      "Dr. Janet Ekpenyong’s unquenchable quest for knowledge",
+    authorName: "Sam Egbe",
     // authorImg: "../images/author.jpg",
-    time: "13 Mar - 2023",
+    time: "26 Mar - 2023",
     desc: [
       {
         para1:
-          "The just concluded presidential and National Assembly elections in Nigeria didn't meet the expectations of many electorates who had been yearning for change in the nation's democracy. These include many Nigerian women who turned out en masse to vote at the polls. Ruth Oginyi reports that most of the rural women who were sensitized and assured of credible elections, were disappointed; as what they saw during the elections was different from what they were promised by the national electoral umpire, the Independent National Electoral Commission (INEC). Uzoamaka Tobias an artisan from Uburu Ohaozara Council Area, and a petty trader Mrs. Inya Ann from Umuezoka community Ezza North Local Government Area, Ebonyi State Southeast Nigeria said the election has dampened their morale and removed the trust they had in INEC and the political actors in subsequent exercises. Uzoamaka Tobias noted that the general election never met her expectations. Her words, 'The presidential and National Assembly elections in Nigeria were not different from the previous elections in the country'",
+          "A seasoned medical doctor, a healthcare financing and public health expert, Dr. Janet Ekpenyong is  the current the Commissioner for Health in Cross River State and the immediate past Director General/Executive Secretary of the Cross River State Primary Health Care Development Agency. Dr. Ekpenyong who served as the Vice Chairman of the Forum of Executive Secretaries of State Primary Healthcare Agency and Boards in Nigeria, stands tall with giants in the health sector, proffering solutions to common health challenges and policies, while harnessing available support to help actualize the vision towards universal health coverage. Highly celebrated for contributing to the Development and implementation of health policies, Ekpenyong in the build up to the nationwide Covid-19 pandemic, stood as one of the Frontline Advocates for safety and preventive Protocols. As member of the Covid-19 response team she played a huge role in ensuring that Cross River State recorded minimal cases. She chaired the Infection Prevention Sub-committee in Covid-19 response team in the state, a job effectively delivered as Cross River State was one of the states that recorded the lowest number of Covid19 cases in the country. Her commitment and leadership in the covid 19 vaccination placed the state’s primary health care agency as one of the agencies to reckon with. Tops on the noticeable achievements are —Cross River state awarded as the best state in the first phase of covid-19 vaccination and the best state in south-south region of the country in immunization including covid-19 vaccination. Dr. Janet Ekpenyong has worked with several international organizations to promote funding for health, including Palladium, on a USAID – Health Policy Project as the National Technical Advisor. In her continuous quest for knowledge, Dr. Ekpenyong is currently studying for a Ph.D. in Public Health at the Texila American University, she has a Master’s in public health from the University of Glasgow, United Kingdom. A Graduate of Medicine and Surgery from Igbinedion University, Janet Ekpenyong has several Certifications from prestigious schools Such as University of Washington, The Harvard T.H Chan School of Public Health, Southern Medical University Guanzhou, China, London School of Hygiene and Tropical Medicine amongst others.",
       },
       {
-        para2:
+        pa:
           "We, rural women had expected different things in the just concluded presidential and National Assembly elections, we expected the election to be credible; free, and fair which will enable the electorate to vote for candidates of their choice. 'Before the elections, the nation's electoral body, INEC made so many promises about BIVAS which it said will checkmate irregularities, but the elections witnessed widespread irregularities with the BIVAS not even used in many places across the country.",
       },
       {
-        para3:
+        pa:
         "“The results of the elections were not also uploaded to the INEC server immediately after the election as INEC promised Nigerians. This gave room for manipulations of the results.'It affected me the most because I was expecting different results other than what we have been having since the advent of democracy in Nigeria. It has dampened my morale. It has demoralized me.”",
       },
     ],
