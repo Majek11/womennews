@@ -1,9 +1,9 @@
 export const hero = [
   {
     id: 1,
-    cover: "../images/hero/Hhero1.jpg",
+    cover: "../images/hero/Hero.jpg",
     category: "featured",
-    title: "Rukayat Motunrayo Shittu…Blazing the trail",
+    title: "Meet Falmata, Borno's First Female Phone Repairer",
     authorName: "Rosemary Opara",
     authorImg: "./Hhero1.jpg",
     time: "11 March - 2023",
