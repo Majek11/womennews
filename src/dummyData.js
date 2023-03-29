@@ -1,26 +1,26 @@
 export const hero = [
   {
     id: 1,
-    cover: "../images/hero/Hero.jpg",
+    cover: "../images/hero/hero1.jpg",
     category: "featured",
-    title: "Meet Falmata, Borno's First Female Phone Repairer",
-    authorName: "Ladi Dapson",
+    title: "Kebbi Launches Financial Literacy Empowerment Project.",
+    authorName: "Khadijat Saidu Birnin",
     authorImg: "./Hhero1.jpg",
-    time: "26 March - 2023",
+    time: "29 March - 2023",
     desc: [
       {
         para1:
-          "When Falmata resolved to dare the odds to earn a living in the harshening economic climate of the Borno terrorised society, her thoughts transcended all sociocultural barriers segregating males and females in terms of skills, trades and occupations.",
+          "Women’s financial inclusion cannot be over-emphasized as an increase in financial inclusion can lead to higher economic growth as well as lower income inequality. It is on account of the existing financial exclusion and gender gaps that the Government of Kebbi State recently flagged off a financial literacy empowerment program for 2600 women across 18 local government areas of the state. The wife of Kebbi state governor, Dr. Zainab Shinkafi Bagudu performed the ceremony on behalf of the Governor at the Women Center in the early days of March 2023 with the support of Hon. Abba Kalgo and his team. The empowerment program is a scale up of the Nigeria For Women project- a World Bank Supported Initiative in 3 pilot LGAs (Argungu, Ngaski and Maiyama) which was developed over 3 years and trained women groups on financial literacy before eventually disbursing 60,000 Naira to 18,000 women in each Local Government Area (LGA). The sum is to support petty traders with capital. Eventually, the state government expanded the program to the remaining 18 Local Government Areas of the state to reach more women with the sum of 450 million Naira. Speaking at the event, Dr. Zainab expressed her excitement at the initiative which will better the lives of thousands of women. She said that already, 18000 women from each of 3 pilot LGAS, have benefited from the Nigeria For Women Project which has had positive impact in the society. The women popularly known as “mata masu dubu siten” engage in enterprises such as groundnut oil processing and shea butter, now know the value of saving and group investment. Some 125 women from each of the 18 LGAs are set to benefit from this round of the program of which 1250 received prepaid bank cards with N10,000 each on the spot. The program is domiciled between the Ministries of Budget and Women Affairs. Similarly, local government chairmen are involved with all the women affinity groups. Kebbi for women is designed as the original World Bank program and adequate training has been carried out.",
       },
       {
-        para2: "She had resolved that should her interest and aptitude lead her to a skill or trade socio-culturally regarded as the territory of men, she would show the society that women could also venture into such trades and skills, and practice them very well.",
+        pa: "She had resolved that should her interest and aptitude lead her to a skill or trade socio-culturally regarded as the territory of men, she would show the society that women could also venture into such trades and skills, and practice them very well.",
       },
       {
-        para3:
+        pa:
           "That was how Falmata found herself in cellphone repairs business, a territory hitherto unheard of for any woman to dare to traverse in the Borno society.",
       },
       {
-        para3:
+        p:
           "Falmata expressed her striking resolve at the celebration of the International Women's Day 2023, with theme 'DigitALL: Innovation and Technology for Gender Equality. This first female cellphone technician was traced to her home community, Mafa, in Mafa LGA of Borno State.'She was trained alongside other youths on technological and innovative skills to build up her skill and earn a decent living.“Even when people tried to discourage me, I resisted, because I have chosen to learn how to fix phones.'They said it's a man's job, but then I love it and I want to have these skills. Besides, only few men are doing this and the demand is so high here in Mafa LGA, of Borno State,Falmata said. She thanked Plan international for training her and supporting her with some tools like meter, engine, screws and other tools for repairing phones.'I wasn’t working, I had no business, but because of Plan International’s intervention in my community, I have a business of my own now.'I can now fix phone screens, change mouth piece and charging point. I can also do other repairs as well.Those who were discouraging me are now bringing their phones for repairs,” said Falmata."
       },
     ],
