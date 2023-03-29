@@ -48,15 +48,15 @@ export const hero = [
   {
     id: 2,
     cover: "../images/hero/hero2.jpg",
-    category: "featured",
-    title: "Felicia Arikpo: A passion for children with learning disabilities",
+    category: "politics",
+    title: "Odey-Ekpo: A political pacesetter",
     authorName: "Sam Egbe",
     // authorImg: "../images/author.jpg",
-    time: "26 Mar - 2023",
+    time: "29 Mar - 2023",
     desc: [
       {
         para1:
-          "Co-Founder and Executive Director of the Dyslexia Foundation/ Brain Training Centre,  Felicia Arikpo, a certified Dyslexia/Brain trainer is a mentor and Special Needs Educator (SNE).Arikpo who trained at the LearningRx Inc USA is also an educator on women’s public life and issues of politics. A girl-child mentor, marriage counsellor and relationship coach, Felicia is passionate about seeing people who are living with learning challenges get the support and help they need. While seeking for help for their dyslexic son, Felicia along with her husband Pastor Ben Arikpo, in the year 2013 co-founded the dyslexia foundation. The Foundation was formally established in 2015 with the vision that no one should be left behind in education on account of a learning challenge especially dyslexia. They also set out on a mission to create awareness as well as provide training and remediation on learning disorders including advocacy for policy and legal changes with respect to people living with learning challenges (especially dyslexia) in Nigeria. In the eight years of amazing impact and gaining new perspectives with her team, the dyslexia foundation has created awareness on dyslexia in various schools in Lagos, Abuja, Calabar and Port Harcourt, educating well over five million people on the signs and symptoms of dyslexia through the use of various mass media. Before 2015 very few people and schools in Nigeria had proper Knowledge of dyslexia. Children who are living with dyslexia suffered a lot from family members, school teachers and school mates. They are seen as lazy and not working hard enough. They are called and described in derogatory terms and made to feel small. Parents and children suffered alike; schools and even hospitals could not explain why these people are the way they are.",
+          "A political pacesetter determined to change the status quo in the political world, Dr Stella Ode- Ekpo started out as a civil servant but soon found her way into the political world when she was elected Vice Chairman of Yala Local Government Council. She made history as the first woman to be appointed Commissioner of Local Government Affairs in Cross River State. Earlier, she had served as the Commissioner for Women Affairs, Cross River State Supervisory Commissioner, Ministry of Rural Transformation, Establishment and Training, Cross River State. Her keen interest in administration propelled her membership into the Administrative Managers of Nigeria (No. 1316). Odey-Ekpo has several published works to her credit chief of which are: Gender Inequality and Women Participation In Counter Insurgency Operations: A Case Study Of Lake Chad Basin Region; African peer review mechanism and its contributions to good governance in Nigeria; Importance of Computing in record keeping: The case study of Faculty of social sciences Ahmadu Bello University, Zaria Kaduna State; and Nigerian Women and their Struggle for Political determination: the case study of Hausa Women in Northern Nigeria. Dr. Odey has received several Awards in recognition of her diligence and dexterity in her discharge of duties both as political office holder and philanthropist amongst which are: Award of Excellence by St. Rita’s Catholic Chaplaincy; Global Pillar of Peace Ambassador’s award by G9 Point Peace Committee. Award in Recognition of Valuable Contribution to the Development of Students; Students Union Government CRUTECH, Calabar; Best Performing Vice Chairman South-South Nigeria Pan African International Magazine Award; Award for Outstanding to the Development of Students in Nigeria-2017; National Association of Nigerian Students, Nigerian Local Government Development Award.",
       },
       {
         pa:
@@ -92,16 +92,16 @@ export const hero = [
   {
     id: 3,
     cover: "../images/hero/hero3.jpg",
-    category: "Health",
+    category: "politics",
     title:
-      "Dr. Janet Ekpenyong’s unquenchable quest for knowledge",
+      "How cultural and traditional beliefs contributed to low number of women in politics",
     authorName: "Sam Egbe",
     // authorImg: "../images/author.jpg",
-    time: "26 Mar - 2023",
+    time: "29 Mar - 2023",
     desc: [
       {
         para1:
-          "A seasoned medical doctor, a healthcare financing and public health expert, Dr. Janet Ekpenyong is  the current the Commissioner for Health in Cross River State and the immediate past Director General/Executive Secretary of the Cross River State Primary Health Care Development Agency. Dr. Ekpenyong who served as the Vice Chairman of the Forum of Executive Secretaries of State Primary Healthcare Agency and Boards in Nigeria, stands tall with giants in the health sector, proffering solutions to common health challenges and policies, while harnessing available support to help actualize the vision towards universal health coverage. Highly celebrated for contributing to the Development and implementation of health policies, Ekpenyong in the build up to the nationwide Covid-19 pandemic, stood as one of the Frontline Advocates for safety and preventive Protocols. As member of the Covid-19 response team she played a huge role in ensuring that Cross River State recorded minimal cases. She chaired the Infection Prevention Sub-committee in Covid-19 response team in the state, a job effectively delivered as Cross River State was one of the states that recorded the lowest number of Covid19 cases in the country. Her commitment and leadership in the covid 19 vaccination placed the state’s primary health care agency as one of the agencies to reckon with. Tops on the noticeable achievements are —Cross River state awarded as the best state in the first phase of covid-19 vaccination and the best state in south-south region of the country in immunization including covid-19 vaccination. Dr. Janet Ekpenyong has worked with several international organizations to promote funding for health, including Palladium, on a USAID – Health Policy Project as the National Technical Advisor. In her continuous quest for knowledge, Dr. Ekpenyong is currently studying for a Ph.D. in Public Health at the Texila American University, she has a Master’s in public health from the University of Glasgow, United Kingdom. A Graduate of Medicine and Surgery from Igbinedion University, Janet Ekpenyong has several Certifications from prestigious schools Such as University of Washington, The Harvard T.H Chan School of Public Health, Southern Medical University Guanzhou, China, London School of Hygiene and Tropical Medicine amongst others.",
+          "The National Council of Women Societies (NCWS) has called on the President-elect, Senator Bola Ahmed Tinubu and state governors to prioritize empowering women by giving them strategic positions while pointing out that non-inclusion of women comes with massive costs. Speaking, with The Women Newspaper, the Borno State President of (NCWS), Nana Liberty noted that cultural and traditional beliefs have greatly contributed to the low number of females in politics, especially in the North -Eastern region. This is coming on the heels of the general elections which produced only one female House of Representatives and three State of House Assembly members-elect in the North East region. According to Nana Liberty, bringing women and other marginalised groups into governance results in more creative solutions and had greater potential for innovations that meet women’s needs and promote as well as development. 'We have seen that men are deliberately not giving us equal opportunities. In Borno State's cabinet, we only have one female commissioner who is in charge of women's affairs. The second one is the acting Attorney General but she has not been confirmed after months.' Continuing, she said: 'Look at all the parastatals in Borno, perhaps we one female or so. The non-inclusion of women comes with massive costs. I will appeal to the president-elect, Governor-elect and Prof. Babagana Zulum when assuming office by 28th, May 2023 to appoint more women into strategic positions. We have many women who are qualified and versatile in governance. 'It is my firm belief that women will even perform better than men. All we are asking for is an equal opportunity and she shall amaze them,' she said. Nana Liberty said that changing this situation will require tackling the problem of cultural deficit and violence, which according to her would reduce poverty and increase peace and development. Nana stressed the need for digital education that could increase the awareness of women and girls regarding their rights and civic engagement in governance.",
       },
       {
         pa:
@@ -138,22 +138,22 @@ export const hero = [
     id: 4,
     cover: "../images/hero/hero4.jpg",
     category: "Politics",
-    title: "Borno female voters seek more appointments in government.",
-    authorName: "Ladi D.",
+    title: "President Buhari Appoints Dr Zainab Bagudu as HILAC Member",
+    authorName: "Khadijat Saidu",
     // authorImg: "../public/images/Tech.jpg",
-    time: "13 Mar - 2023",
+    time: "29 Mar - 2023",
     desc: [
       {
         para1:
-          "Female voters in Borno State have lamented the sharp contrast between their huge turnout in the February 25 presidential and national assembly elections, and their low representation in the electoral contests. Reviewing their participation in the election, they complained that while their massive turnout dwarfed that of their male counterparts, only one lady represented them among all the candidates seeking election in the state. Consequently, they implored Governor Babagana Umara Zulum and the state's governing APC to compensate them with many key appointments in the next administration. Reactions continue to trail the February 25, Presidential and National Assembly election.",
+          "President Muhammadu Buhari has appointed the Wife of Kebbi State Governor, Dr. Zainab Shinkafi Bagudu as a member of the High-level Advisory Committee (HILAC) in an effort to step up breakthroughs for the much-needed gender and adolescent inclusion in the Nigerian society. Dr. Zainab Bagudu disclosed this while reacting to her appointment as a member of the High-level Advisory Committee (Hilac). She said: “The scale-up will not only support financial independence to women across Nigeria but has a positive impact on other sectors like health and education.” The Founder and Chairperson of Medicaid Cancer Foundation said the step up by the President was a breakthrough for the much-needed gender and adolescent inclusion in society. She listed the lead Ministries as Women’s Affairs, Finance, Education, Budget, and National Planning. Dr. Zainab commended the Ministers, adding that she is eagerly waiting for work to commence. On Hilac, the wife of the Kebbi State Governor said other members were drawn from multi-sectors and are expected to provide support to three programs including: National Women’s Economic Empowerment (WEE), Adolescent Girls’ Learning and Empowerment (AGILE), and Nigeria for Women Project (NFWP-SU). “Kebbi State is one of the beneficiary pilot states of the NFWP-SU, and it was very successful,” she said. She stated that no fewer than 70,000 women have benefited from Nigeria for Women Project in Kebbi state.In the same vein, all the women were each given N60,000 as start-up grants to establish their various businesses, she added.",
       },
       {
-        para2:
-          "Meanwhile, the only female among the 14 candidates in Borno State, Dr Zainab Gimba of All Progressive Party (APC) currently represents Bama, Ngala and Kala-Balge Federal Constituency at the National Assembly. In the governorship race also, the only frontline woman contender across the 36 states is APC’s Senator Aisha Binani in Adamawa state. Some concerned women activists say women’s political participation in Nigeria is below global standards despite their large turnout during elections. Speaking to The WomenNews, Chairperson of the Nigerian Association Women of Journalists (NAWOJ), Borno State, Comrade Amina Fida said, 'What I can tell you is that women participated in this just concluded election, because the turnout was quite impressive compared to the male folk. 'I saw determination because an old woman whose fingerprint could not be captured said she would go back home and return later because she wanted her vote to make a difference. Sadly, only a few women are allowed to vie for elective positions.”",
+        pa:
+          "",
       },
       {
-        para3:
-          "For some Nigerians, it was a sad development for gender equality in the region's politics but also a timely reminder of the many hurdles women face in attaining leadership roles in the state. It is a known fact that half of Nigeria’s estimated 210 million people are women, but only one woman has ever occupied any of the top four positions in Nigeria’ governance. Only 3 percent of Nigeria’s federal lawmakers are women; one of the lowest representation rates globally. Women right Activist, Comrade Lucy Dlama said in her local government in the southern part of Borno State, the election was peaceful and women came out in droves, especially aged women. But surprisingly the active participation of women in politics was quite low."
+        p:
+          ""
       },
     ],
     details: [
